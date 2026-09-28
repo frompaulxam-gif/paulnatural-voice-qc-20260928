@@ -1,0 +1,1 @@
+const CONFIG={"id": "paulnatural-voice-qc-20260928", "title": "paulnatural voice review", "store": "https://textdb.dev/api/data/qc-2df5aec4605c2d0d2ca97d3e"};

@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "code": "01",
+      "variants": [
+        {
+          "id": "01-a",
+          "label": "A",
+          "reference": false,
+          "width": 900,
+          "height": 1390,
+          "image": "media/01-a.jpg"
+        },
+        {
+          "id": "01-b",
+          "label": "B",
+          "reference": false,
+          "width": 900,
+          "height": 1390,
+          "image": "media/01-b.jpg"
+        },
+        {
+          "id": "01-c",
+          "label": "C",
+          "reference": false,
+          "width": 900,
+          "height": 1390,
+          "image": "media/01-c.jpg"
+        },
+        {
+          "id": "01-d",
+          "label": "D",
+          "reference": false,
+          "width": 900,
+          "height": 1390,
+          "image": "media/01-d.jpg"
+        }
+      ]
+    }
+  ]
+}
